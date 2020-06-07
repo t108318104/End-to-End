@@ -1,0 +1,2 @@
+model_checkpoint_path: "ctc-6000"
+all_model_checkpoint_paths: "ctc-6000"
